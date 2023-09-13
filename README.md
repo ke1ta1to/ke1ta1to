@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**eguchi1611/eguchi1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://github-readme-stats.eguchi.cc/api?username=eguchi1611&theme=dracula&hide_border=true&show_icons=true&rank_icon=github&hide=contribs"
+  alt=""
+  height="170"
+/>
+<img
+  src="https://github-readme-stats.eguchi.cc/api/top-langs/?username=eguchi1611&theme=dracula&hide_border=true&layout=compact"
+  alt=""
+  height="170"
+/>  
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eguchi1611&theme=dracula"
+  alt=""
+  height="200"
+/>
