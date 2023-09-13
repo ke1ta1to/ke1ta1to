@@ -14,4 +14,9 @@
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eguchi1611&theme=dracula"
   alt=""
   height="200"
+/>  
+<img
+  src="https://github-profile-trophy.vercel.app/?username=eguchi1611&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5&column=7"
+  alt=""
+  height="200"
 />
