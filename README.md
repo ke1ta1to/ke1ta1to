@@ -15,6 +15,6 @@
   alt=""
 />  
 <img
-  src="https://github-profile-trophy.vercel.app/?username=ke1ta1to&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5"
+  src="https://github-profile-trophy.vercel.app/?username=ke1ta1to&theme=dracula&no-frame=true&margin-w=5&column=7"
   alt=""
 />
